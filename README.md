@@ -22,6 +22,16 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeAndrade&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusDeAndrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+## Techs
+  ### There are some techs that I have got some experience and another ones that I aim to learn or improve my skills
+  
+  - The ones I got some professional experience
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" height="50" width="50"/>
 
 ## Contact
 <div>
