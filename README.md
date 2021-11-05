@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
   
 ## Techs
-  ### There are some techs that I have got some experience and another ones that I aim to learn or improve my skills
+  ### Below some programming languages, frameworks and "techs" that I got 1-4 years of experience.
   
   ##### Front End  
   
