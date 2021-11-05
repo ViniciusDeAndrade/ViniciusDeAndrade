@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 ## Techs
   ### There are some techs that I have got some experience and another ones that I aim to learn or improve my skills
   
-  #### The ones I got some professional experience
-  
   ##### Front End  
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/>
