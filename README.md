@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning, studying AWS infrastrucre and front end development with React and Next.js
 - ⚡ I wish to become a great developer and a top professional.
 
+## My main project/portfolio is <a href="https://github.com/ViniciusDeAndrade/sign"> here </a>. I used Spring boot, security, web and kotlin
+
 <div id="stat">
   <a href="https://github.com/ViniciusDeAndrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusDeAndrade&layout=compact&langs_count=7&theme=dracula"/>
